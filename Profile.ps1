@@ -1,0 +1,1 @@
+﻿New-Alias -Name ifconfig -value Get-NetIPConfiguration

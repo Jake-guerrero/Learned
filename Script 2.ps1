@@ -1,0 +1,5 @@
+﻿Sparams = @{
+
+    Path
+
+}
