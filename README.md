@@ -1,14 +1,3 @@
 # Learned
 
-This GitHub repo is to showcase what I have learned by either the Udemy website or through Code:You, a free coding bootcamp. This repo will show the python, pandas, R and SQL that I finished or working on at the time.
-
-Some coding topics that I have learned are:
-
-1. Fizzbuzz
-2. Caeser Cipher
-3. Fruit Sales
-4. Wine Reviews
-5. Fashion Magazines
-6. Blackjack
-
-
+This repository contains coding exercises and practice projects in R, Python, SQL, Pandas, and other languages that I am currently learning or have worked with in the past. I use this space to document and share my coding journey online while also backing up my work from my personal computer for easy access and future reference.
